@@ -1,3 +1,5 @@
+# This is just a fork of Maildev with all packeges with MIT
+
 # MailDev
 
 [![Test](https://github.com/maildev/maildev/actions/workflows/test.yml/badge.svg)](https://github.com/maildev/maildev/actions/workflows/test.yml)

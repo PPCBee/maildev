@@ -1,5 +1,5 @@
 {
-  "name": "maildev",
+  "name": "maildev-mit",
   "description": "SMTP Server and Web Interface for reading and testing emails during development",
   "version": "1.1.0",
   "keywords": [
@@ -22,7 +22,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/maildev/maildev.git"
+    "url": "http://github.com/PPCBee/maildev.git"
   },
   "scripts": {
     "test": "standard && nyc _mocha --exit",
@@ -49,8 +49,8 @@
     "mailparser-mit": "^1.0.0",
     "opn": "^6.0.0",
     "rimraf": "^3.0.2",
-    "smtp-connection": "4.0.2",
-    "smtp-server": "3.5.0",
+    "smtp-connection-mit": "3.2.1",
+    "smtp-server": "3.9.0",
     "socket.io": "2.2.0",
     "strip-tags": "^0.1.1",
     "wildstring": "1.0.9"
